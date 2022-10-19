@@ -1,3 +1,4 @@
 /target
 /src/*
 !/src/*.rs
+.DS_Store
